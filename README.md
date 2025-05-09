@@ -1,5 +1,2 @@
-# TITANIC-PROJECT
-This project focuses on predicting passenger survival from the Titanic disaster using supervised machine learning. The goal is to build a logistic regression model with Scikit-learn to determine which passengers were more likely to survive based on data like age, gender, class, and fare. The notebook is structured into four main sections, providing a complete end-to-end analysis using the Titanic dataset.
-Uploading and reading the titanic data.
-This is good for practice because it has all the needed features for basic and simple SML.
-It contains information about passengers aboard the RMS Titanic, including whether they survived or not, and also with virsualisation to better explain it.
+**INTRODUCTION** 
+The Titanic disaster remains one of the most maritime tragedies in history, claiming the lives passengers and crew. This project leverages anaysis from the Titanic passenger to explore patterns and factors that influenced the survival outcomes of passangers. Using Exploratory Data Analysis (EDA) to uncover insights into variables such as age, gender, passenger class, and fare,etc. Analysis through data cleaning, visualization, and statistical analysis. These insights guide the development of a predictive Machine Learning (ML) model designed to classify whether a passenger survived or not.  
